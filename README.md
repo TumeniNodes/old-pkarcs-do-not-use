@@ -1,3 +1,5 @@
+This is a fork of PEAK's mod Simple Arcs (pkarcs) which adds arched doors made to work specifically with the mod.
+
 This mod adds arc-nodes to Minetest as well as arcs for inner and outer corners.
 
 Provided nodes:
