@@ -1,0 +1,9 @@
+extremely W.I.P. atm
+
+Need to fix model
+
+Will use standard doors code once model is fixed
+
+Add recipies which may be center 3 grids, vertical bottom = material / mid = material / top = an ark
+
+Create textures for all wood and metal types listed in the readme file
