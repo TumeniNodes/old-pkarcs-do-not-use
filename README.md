@@ -54,14 +54,14 @@ Arched doors which work exclusively with pkarcs.
 
 Basic options for doors are wood and metal types. (sorry, no glass types, you can add if you like)
 
-Acacia Wood
-Apple Wood (typically known as just "wood" in Minetest Game)
-Aspen Wood
-Jungle Wood
-Pine Wood
+Acacia Wood,
+Apple Wood (typically known as just "wood" in Minetest Game),
+Aspen Wood,
+Jungle Wood,
+Pine Wood,
 
-Bronze
-Copper
-Iron
-Steel
+Bronze,
+Copper,
+Iron,
+Steel,
 # pkarcs
