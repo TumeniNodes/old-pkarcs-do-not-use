@@ -1,9 +1,23 @@
 extremely W.I.P. atm
 
 Need to fix model
+*(done, thanks to VanessaE, model needed to be triangulated)
 
 Will use standard doors code once model is fixed
+*(will not work)
 
-Add recipies which may be center 3 grids, vertical bottom = material / mid = material / top = an ark
+Find out how to mirror Ldoor and Ldoor_open models, so they can be placed side-by-side as in 'doors' mod
+
+Add skeleton keys/locking functions (protected)
+
+Add recipies
+*(craft recipes done, just need to figure for metal doors)
 
 Create textures for all wood and metal types listed in the readme file
+*(done)
+
+Add fuel defs for wood doors?
+
+Make wood door types flammable?
+
+Fix sounds for arcs in pkarcs.lua

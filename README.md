@@ -88,4 +88,6 @@ Copper
 Iron
 
 Steel
+
+Tin
 # pkarcs
