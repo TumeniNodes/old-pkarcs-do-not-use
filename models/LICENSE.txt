@@ -3,6 +3,10 @@
 
 * arch_door_L.obj
 * arch_door_L_open.obj
+* arch_door_R.obj
+* arch_door_R_open.obj
+
+** With great thanks to VanessaE for setting the models to use triangulation. An issue I was unable to figure out. ** (Now I know what to do if the same issue pops up one day) Knowledge is Power
 
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
