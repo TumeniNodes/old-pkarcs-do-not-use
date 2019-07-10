@@ -51,7 +51,7 @@ pkarcs_doors.door = {
 
 		{"bronze",
 		"Bronze",
-		{choppy = 2, door = 1},
+		{cracky = 1, level = 2, door = 1},
 		default.node_sound_metal_defaults(),
 		"doors_steel_door",
 		{name = "pkarcs_doors_bronze.png", backface_culling = true},
@@ -60,7 +60,7 @@ pkarcs_doors.door = {
 
 		{"copper",
 		"Copper",
-		{choppy = 2, door = 1},
+		{cracky = 1, level = 2, door = 1},
 		default.node_sound_metal_defaults(),
 		"doors_steel_door",
 		{name = "pkarcs_doors_copper.png", backface_culling = true},
@@ -69,7 +69,7 @@ pkarcs_doors.door = {
 
 		{"iron",
 		"Iron",
-		{choppy = 2, door = 1},
+		{cracky = 1, level = 2, door = 1},
 		default.node_sound_metal_defaults(),
 		"doors_steel_door",
 		{name = "pkarcs_doors_iron.png", backface_culling = true},
@@ -78,7 +78,7 @@ pkarcs_doors.door = {
 
 		{"steel",
 		"Steel",
-		{choppy = 2, door = 1},
+		{cracky = 1, level = 2, door = 1},
 		default.node_sound_metal_defaults(),
 		"doors_steel_door",
 		{name = "pkarcs_doors_steel.png", backface_culling = true},
@@ -87,11 +87,20 @@ pkarcs_doors.door = {
 
 		{"tin",
 		"Tin",
-		{choppy = 2, door = 1},
+		{cracky = 1, level = 2, door = 1},
 		default.node_sound_metal_defaults(),
 		"doors_steel_door",
 		{name = "pkarcs_doors_tin.png", backface_culling = true},
 		{"default:tin_block"}
+	},
+
+		{"bar",
+		"Bar",
+		{cracky = 1, level = 2, door = 1},
+		default.node_sound_metal_defaults(),
+		"doors_steel_door",
+		{name = "pkarcs_doors_bar.png", backface_culling = true},
+		{"xpanes:bar"}
 	},
 }
 
