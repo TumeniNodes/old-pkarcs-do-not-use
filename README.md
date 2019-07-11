@@ -83,5 +83,5 @@ Report bugs or suggest ideas by [creating an issue](https://github.com/TumeniNod
 If you know how to fix an issue, or want something to be added, consider opening a [pull request](https://github.com/TumeniNodes/pkarcs/compare).
 
 ## Additional info
-If you want to get additional info, go to the [Minetest Forums](https://forum.minetest.net/viewtopic.php?f=9&t=22839).    
+If you want to get additional info about this fork, go to the [Minetest Forums](https://forum.minetest.net/viewtopic.php?f=9&t=22839).    
 If you want to go to the original topic of the mod, click [here](https://forum.minetest.net/viewtopic.php?f=11&t=14541).
