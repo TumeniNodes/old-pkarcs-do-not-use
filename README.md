@@ -32,6 +32,9 @@ It may be compatible from that version and above.
 - doors (included in minetest_game)
 - mesecons (**optional dependency!**)
 
+## License
+Click [here](https://github.com/TumeniNodes/pkarcs/blob/master/LICENSE) to see the license.
+
 ## Screenshot
 ![Preview](https://github.com/TumeniNodes/pkarcs/blob/master/screenshot.png)
 
