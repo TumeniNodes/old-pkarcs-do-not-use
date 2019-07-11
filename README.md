@@ -2,6 +2,18 @@
 This mod adds arc-nodes to Minetest as well as arcs for inner and outer corners.
 Note this is a fork of PEAK's mod Simple Arcs (pkarcs) https://forum.minetest.net/viewtopic.php?f=11&t=14541 which adds arched doors made to work specifically with the mod.
 
+## Dependencies
+- default (included in minetest_game)
+- doors (included in minetest_game)
+- mesecons (**optional dependency!**)
+
+## Requierments
+This mod is tested with Minetest 0.4.15.   
+It may be compatible from that version and above.
+
+## License
+Click [here](https://github.com/TumeniNodes/pkarcs/blob/master/LICENSE) to see the license.
+
 ## Installation
 - Unzip the archive, rename the folder to pkarcs and
 place it in ..minetest/mods/
@@ -23,17 +35,9 @@ and call this function in your init.lua:
 	pkarcs.register_node("your_mod:your_nodename")
 end`
 
-## Requierments
-This mod is tested with Minetest 0.4.15.
-It may be compatible from that version and above.
-
-## Dependencies
-- default (included in minetest_game)
-- doors (included in minetest_game)
-- mesecons (**optional dependency!**)
-
-## License
-Click [here](https://github.com/TumeniNodes/pkarcs/blob/master/LICENSE) to see the license.
+## Bugs, suggestions, features & bugfixes.
+Report bugs or suggest ideas by [creating an issue](https://github.com/TumeniNodes/pkarcs/issues/new).    
+If you know how to fix an issue, or want something to be added, consider opening a [pull request](https://github.com/TumeniNodes/pkarcs/compare).
 
 ## Screenshot
 ![Preview](https://github.com/TumeniNodes/pkarcs/blob/master/screenshot.png)
@@ -80,10 +84,6 @@ Click [here](https://github.com/TumeniNodes/pkarcs/blob/master/LICENSE) to see t
 - default:acacia_wood
 
 - default:aspen_wood
-
-## Bugs, suggestions, features & bugfixes.
-Report bugs or suggest ideas by [creating an issue](https://github.com/TumeniNodes/pkarcs/issues/new).    
-If you know how to fix an issue, or want something to be added, consider opening a [pull request](https://github.com/TumeniNodes/pkarcs/compare).
 
 ## Additional info
 If you want to get additional info about this fork, go to the [Minetest Forums](https://forum.minetest.net/viewtopic.php?f=9&t=22839).    
