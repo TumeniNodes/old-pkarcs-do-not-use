@@ -8,8 +8,7 @@ Note this is a fork of PEAK's mod Simple Arcs (pkarcs) https://forum.minetest.ne
 - mesecons (**optional dependency!**)
 
 ## Requierments
-This mod is tested with Minetest 0.4.15.   
-It may be compatible from that version and above.
+Works with MT/MTG 5.0.0+.
 
 ## License
 Click [here](https://github.com/TumeniNodes/pkarcs/blob/master/LICENSE) to see the license.
@@ -84,6 +83,33 @@ If you know how to fix an issue, or want something to be added, consider opening
 - default:acacia_wood
 
 - default:aspen_wood
+
+## Announcing the new doors
+TumeniNodes 2017-07-03
+
+Added pkarcs doors. Arched doors which work exclusively with pkarcs.
+
+Basic options for doors are wood and metal types. (sorry, no glass types, you can add if you like)
+
+Acacia Wood
+
+Apple Wood (typically known as just "wood" in Minetest Game)
+
+Aspen Wood
+
+Jungle Wood
+
+Pine Wood
+
+Bronze
+
+Copper
+
+Iron
+
+Steel
+
+Tin
 
 ## Additional info
 If you want to get additional info about this fork, go to the [Minetest Forums](https://forum.minetest.net/viewtopic.php?f=9&t=22839).    
